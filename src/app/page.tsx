@@ -5,7 +5,6 @@ import { useEffect, useState } from 'react';
 const deadCodePhrases = [
   "🗑️ Delete it mercilessly.",
   "🧹 Clean it out.",
-  "🌪️ Kill it now.",
   "🦠 It’s rotting—remove it.",
   "💸 Tech debt be gone.",
   "🐌 Cut it loose.",
