@@ -7,12 +7,20 @@ const deadCodePhrases = [
   "🧹 Clean it out.",
   "🌪️ Kill it now.",
   "🦠 It’s rotting—remove it.",
-  "💸 Pay off the debt.",
+  "💸 Tech debt be gone.",
   "🐌 Cut it loose.",
   "⚓ Dump the dead weight.",
   "📢 Silence the noise.",
   "⚰️ Bury it—no exceptions.",
-  "👻 Exorcise the ghost code."
+  "👻 Exorcise the ghost code.",
+  "🌪️ Nuke it.",
+  "🔥 Burn it.",
+  "🧼 Scrub it.",
+  "💀 Kill it.",
+  "🧯 Extinguish it.",
+  "🪓 Axe it.",
+  "🧙‍♂️ Vanish it.",
+  "🚮 Toss it."
 ];
 
 export default function Home() {
