@@ -3,16 +3,16 @@
 import { useEffect, useState } from 'react';
 
 const deadCodePhrases = [
-  "🗑️ Dead code is clutter—delete it mercilessly.",
-  "🧹 Unused code is wasted space—clean it out.",
-  "🌪️ Dead code breeds confusion—kill it now.",
-  "🦠 If it's not running, it's rotting—remove it.",
-  "💸 Dead code is technical debt—pay it off.",
-  "🎭 Unused code is a lie—erase the fiction.",
-  "🐌 Dead code slows progress—cut it loose.",
-  "⚓ Unreachable code is dead weight—dump it.",
-  "📢 Dead code is noise—silence it forever.",
-  "⚰️ If it's dead, bury it—no exceptions."
+  "🗑️ Delete it mercilessly.",
+  "🧹 Clean it out.",
+  "🌪️ Kill it now.",
+  "🦠 It’s rotting—remove it.",
+  "💸 Pay off the debt.",
+  "🐌 Cut it loose.",
+  "⚓ Dump the dead weight.",
+  "📢 Silence the noise.",
+  "⚰️ Bury it—no exceptions.",
+  "👻 Exorcise the ghost code."
 ];
 
 export default function Home() {
