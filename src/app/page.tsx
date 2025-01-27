@@ -42,7 +42,7 @@ export default function Home() {
       <main className="max-w-3xl mx-auto text-center space-y-8">
         <h1 className="text-2xl md:text-3xl text-gray-500 font-['EB_Garamond']">DEAD CODE SOCIETY</h1>
           <p className="text-5xl md:text-7xl font-bold">{phrase}</p>
-        <button onClick={changePhrase} className="text-sm text-white">Hit <span className="px-2 py-1 bg-gray-100 text-black rounded">Space</span> or Click</button>
+        <button onClick={changePhrase} className="text-sm text-white px-2 py-2">Hit  <span className="mx-1 px-3 py-1 bg-gray-100 text-black rounded">Space</span>  or Click</button>
       </main>
     </div>
   );
