@@ -7,7 +7,7 @@ const deadCodePhrases = [
   "🧹 Clean it out.",
   "🦠 It’s rotting—remove it.",
   "💸 Tech debt be gone.",
-  "🐌 Cut it loose.",
+  "✂️ Cut it loose.",
   "⚓ Dump the dead weight.",
   "📢 Silence the noise.",
   "⚰️ Bury it—no exceptions.",
